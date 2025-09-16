@@ -1,0 +1,9 @@
+flask
+flask-socketio
+eventlet
+torch
+scikit-learn
+opencv-python
+numpy
+pyttsx3           
+sounddevice   
